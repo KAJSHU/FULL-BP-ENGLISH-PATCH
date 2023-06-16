@@ -1,4 +1,4 @@
-KAJSHU English Patch
+# KAJSHU English Patch
 An English patch for Blue Protocol (JP release).
 
 This project is _largely_ machine translated via DeepL (with a custom BP-specific glossary). Please set your current expectations of the project quality accordingly.
