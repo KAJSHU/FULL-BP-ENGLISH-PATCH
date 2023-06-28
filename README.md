@@ -1,4 +1,4 @@
-# KAJSHU English Patch
+# KAJSHU's FULL English Patch
 An English patch for Blue Protocol (JP release).
 
 # I will Keep this english patch updated, i will soon add the server side patch as well
