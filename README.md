@@ -1,6 +1,8 @@
 # KAJSHU English Patch
 An English patch for Blue Protocol (JP release).
 
+# I will Keep this english patch updated, i will soon add the server side patch as well
+
 This project is _largely_ machine translated via DeepL (with a custom BP-specific glossary). Please set your current expectations of the project quality accordingly.
 * Roughly (3000/32000) strings were manually translated/refined, but the currently quality level of the translations are medium-to-low.
 
