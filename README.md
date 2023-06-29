@@ -45,4 +45,5 @@ Using this English patch could result in account termination.
 
 ## Acknowledgements
 `Zakum` worked on this to create the initial glossary of terms used for the translations.
+as well as `ArtFect`
 * Check out his site [bapharia.com](https://bapharia.com/), it's pretty neat!
