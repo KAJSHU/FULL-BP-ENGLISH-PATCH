@@ -48,3 +48,7 @@ Using this English patch could result in account termination.
 
 as well as `ArtFect`
 * Check out his site [bapharia.com](https://bapharia.com/), it's pretty neat!
+
+[BLUE PROTOCOL TRANSLATE GITHUB](https://github.com/digitalstars/BlueProtocol-Translate)
+
+[BP TRANSLATE GITHUB](https://github.com/ArtFect/BP-translate)
