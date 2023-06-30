@@ -55,3 +55,5 @@ And `DigitalStars`
 [BLUE PROTOCOL TRANSLATE GITHUB](https://github.com/digitalstars/BlueProtocol-Translate)
 
 [BP TRANSLATE GITHUB](https://github.com/ArtFect/BP-translate)
+
+[Blue Protocol Translator discord](https://discord.gg/QwAATupB4b)
