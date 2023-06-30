@@ -8,7 +8,7 @@ This project is _largely_ machine translated via DeepL (with a custom BP-specifi
 
 # I DID NOT CREATE THIS THIS IS AN UPLOAD OF THE ORIGINAL HE DELETED THIS BECAUSE OF HATE I DO NOT CARE ABOUT HATE
 
-# ALL CREDIT  GOES TO DigitalStars
+# ALL CREDIT  GOES TO `DigitalStars`
 
 
 Feedback / Issue reports are welcome, either on the Github issue tracker or our Discord:
