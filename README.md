@@ -52,8 +52,6 @@ as well as `ArtFect`
 And `DigitalStars`
 * Check out his site [bapharia.com](https://bapharia.com/), it's pretty neat!
 
-[BLUE PROTOCOL TRANSLATE GITHUB](https://github.com/digitalstars/BlueProtocol-Translate)
+[Blue Protocol DigitalStars Translator GITHUB](https://github.com/digitalstars/BlueProtocol-Translate)
 
-[BP TRANSLATE GITHUB](https://github.com/ArtFect/BP-translate)
-
-[Blue Protocol Translator discord](https://discord.gg/QwAATupB4b)
+[Blue Protocol Translator Discord](https://discord.gg/QwAATupB4b)
