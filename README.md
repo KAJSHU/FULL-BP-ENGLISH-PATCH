@@ -1,7 +1,7 @@
 # Blue Protocol FULL English Patch
 An English patch for Blue Protocol (JP release).
 
-# CREATORS LINKS
+# GO TO THESE CREATOR LINKS TO DOWNLOAD THE PATCH
 
 [Blue Protocol DigitalStars Translator GITHUB](https://github.com/digitalstars/BlueProtocol-Translate)
 
